@@ -22,10 +22,4 @@
 <a href="https://instagram.com/sul.hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sul.hub" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
