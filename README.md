@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, It's me Sulav.</h1>
 <h3 align="center">A passionate application developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subash1237&label=Profile%20views&color=0e75b6&style=flat" alt="subash1237" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subash1237&label=Profile%20views&color=0e75b6&style=flat" alt="sulbasnet" /> </p>
 
 - 🔭 I’m currently working on **NepiQ**
 
@@ -24,12 +24,12 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulavbasnet&show_icons=true&theme=radical" alt="Sulav's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavbasnet&theme=radical" alt="GitHub streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sulbasnet&show_icons=true&theme=radical" alt="Sulav's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulbasnet&theme=radical" alt="GitHub streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulavbasnet&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulbasnet&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
