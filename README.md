@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, It's me Sulav.</h1>
+<h2 align="center">Hey 👋, It's me Sulav.</h2>
 <h3 align="center">A passionate Python developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash1237&label=Profile%20views&color=0e75b6&style=flat" alt="sulbasnet" /> </p>
