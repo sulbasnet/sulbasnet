@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hey 👋, It's me Sulav.</h1>
-<h3 align="center">A passionate application developer from Nepal.</h3>
+<h3 align="center">A passionate python developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash1237&label=Profile%20views&color=0e75b6&style=flat" alt="sulbasnet" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently into **Web3 and AI**
 
-- 💬 Ask me about **Javascript, Python, and Flutter**
+- 💬 Ask me about **Python, Javascript and Flutter**
 
 - 📫 How to reach me **nextsulav@gmail.com**
 
